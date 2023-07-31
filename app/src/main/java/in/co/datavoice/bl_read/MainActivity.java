@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.d(TAG, "setSuccess: Init");
             }
         });
+//      mBluetoothLe.getConnected();
 
 
 
@@ -91,7 +92,6 @@ public class MainActivity extends AppCompatActivity {
 //        mBluetoothLe.setScanPeriod(15000);
 
 
-//      mBluetoothLe.getConnected();
 
 //        BLEDevice bindBLEDevice = SPHelper.getBindBLEDevice(this);
 //        Log.d(TAG, "onCreate: " + bindBLEDevice);
