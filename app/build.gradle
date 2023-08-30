@@ -7,7 +7,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "in.co.datavoice.bl_read"
+        applicationId "com.keephealth.android"
         minSdk 24
         targetSdk 33
 
